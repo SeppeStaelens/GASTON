@@ -90,4 +90,4 @@ The GASTON manuscript is published at [Nature Methods](https://www.nature.com/ar
 ```
 
 ## Support
-For questions or comments, please file a Github issue and/or email Uthsav Chitra (uchitra@princeton.edu).
+For questions or comments, please file a Github issue and/or email Uthsav Chitra (uthsav@jhu.edu).
